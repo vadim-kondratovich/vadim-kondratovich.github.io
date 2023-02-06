@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://vadim-kondratovich.github.io/sitemap.xml
