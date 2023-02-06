@@ -3132,6 +3132,18 @@ textarea::-webkit-contacts-auto-fill-button {
 .header__languages > :not(:last-child) {
   margin-right: 5px;
 }
+@media (max-width: 859.98px) {
+  .header__container {
+    flex-direction: column;
+  }
+  .header__container,
+  .header__languages {
+    align-items: flex-start;
+  }
+  .header__languages {
+    margin-top: 10px;
+  }
+}
 .banner {
   padding: 140px 0 0;
 }
