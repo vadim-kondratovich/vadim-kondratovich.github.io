@@ -3134,6 +3134,7 @@ textarea::-webkit-contacts-auto-fill-button {
 }
 @media (max-width: 859.98px) {
   .header__container {
+    padding: 20px 0;
     flex-direction: column;
   }
   .header__container,
